@@ -1,7 +1,7 @@
 [
   {
     "remote": "TeamWin",
-    "repository": "android_device_onrplus_sm85xx-common",
+    "repository": "android_device_oneplus_sm85xx-common",
     "target_path": "device/oneplus/sm85xx-common",
     "branch": "android-12.1"
   }
